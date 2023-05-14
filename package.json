@@ -1,0 +1,11 @@
+{
+  "name": "nweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Rowan",
+  "license": "GPL-3.0-or-later"
+}
